@@ -1,3 +1,3 @@
-Tarea 2, Emil féliz. Captura de pantalla:
+Emil Féliz. Tarea 3, Captura de pantalla:
 
-![Captura de pantalla](tarea2.png)
+![Captura de Pantalla](img/imagen.png)
